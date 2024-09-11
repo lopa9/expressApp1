@@ -1,0 +1,16 @@
+{
+  "name": "express-demo",
+  "version": "1.0.0",
+  "main": "two.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.20.0",
+    "uuid": "^10.0.0"
+  }
+}
